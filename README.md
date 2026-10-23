@@ -1,4 +1,4 @@
-# TAIGA — TP DOC AI interactive mascot
+# TAIGA - TP DOC AI interactive mascot
 
 A true 3D Three.js character component, reconstructed from the supplied front-view reference. White glossy armor, graphite joints and orange accents. The browser scene contains geometry throughout; no image of the robot is used as a model.
 
